@@ -1,4 +1,4 @@
-Aether Source License v1.2
+# Aether Source License v1.2
 
 Copyright (c) 2025 NurAzli
 
